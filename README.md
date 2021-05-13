@@ -1,2 +1,3 @@
 # tour-list
-Created with CodeSandbox
+
+a webapp to show list to most wanted places to visit
